@@ -2,6 +2,7 @@
   "messages": [
     {"message": "Dentist today, 10:30 AM", "icon": "calendar", "accent": "#ffd75e", "label": "TODAY"},
     {"message": "Target after the dentist: firm cooling pillow, queen, for the cabin", "icon": "check", "accent": "#8be08b", "label": "ERRAND"},
+    {"message": "Bridge contract awarded Nov 12: Smith-Rowe, $1.57M", "icon": "wrench", "accent": "#ffd75e", "label": "BRIDGE"},
     {"message": "6 PM triple-book: sound board, rehearsal, orchestra. Yours to sort.", "icon": "alert", "accent": "#ff9d5c", "label": "TONIGHT"},
     {"message": "Steve Byers asks: sausage, ham, or chicken filet for Dec 5?", "icon": "bell", "accent": "#7fb2ff", "label": "QUESTION"},
     {"message": "Tomorrow 9:45 AM: Charlie to the vet", "icon": "heart", "accent": "#ff8fb2", "label": "TOMORROW"}
